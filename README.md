@@ -1,5 +1,7 @@
 # Corona-Map-Tracker
 This is corona virus cases tracking on map project
+
+
 #STEPS:
 1) First we created a HTML file where we imported map from third party resource
 2) Then we give it width and height so, that it can perfectly fit on any resolution (and made it responsive)
